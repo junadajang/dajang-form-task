@@ -7,4 +7,7 @@ Inspect element > Application > Storage > Local Storage
 
 I added links to each pages for fast navigation.
 
--Juna Dajang
+USER
+1. Input data
+2. Submit form
+3. View form results
